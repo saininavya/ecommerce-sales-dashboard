@@ -50,7 +50,7 @@ This project presents an interactive Power BI dashboard developed to analyze e-c
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1145" height="645" alt="DASHBOARD PNG" src="https://github.com/user-attachments/assets/5a9ff17e-9680-4f92-a44a-64621d8f193d" />
 
 ---
 
